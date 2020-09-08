@@ -23,4 +23,4 @@ git commit -m "Some Text" filename.cpp
 git push -u origin master
 ```
 
-Il file verra' aggiunto nella repository `git`
+Il file verra' aggiunto nella repository `GitHub`
