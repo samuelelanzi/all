@@ -1,5 +1,13 @@
 # Come usare git
 
+Configurare i propri dati GitHub:
+```
+git config --global user.name "username"
+git config --global user.email "email"
+git config --list
+
+```
+
 Creare una cartella `myRepository`:
 
 ```
