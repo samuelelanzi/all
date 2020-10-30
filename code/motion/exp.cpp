@@ -14,7 +14,6 @@ void exp() {
     f->SetLineStyle(2);
  
     graph->Fit(f);
-    gStyle->SetOptFit(111);
     graph->Draw("APE");
     
     mycanvas->Print("motion.pdf");
